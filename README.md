@@ -1,6 +1,7 @@
 # wwEmbedTemplate
 
 The template project for STM32 MCU based control Board.
+//TODO: project description.
 
 ## Directory
 
